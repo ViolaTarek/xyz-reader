@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    }
+]

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\248376fc7f3be2ae2da8143a3e210fb91b155db4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20b900ad98a59c1ba7486ebd33d2073d3fe7c252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7be08bbb5c625aa5b7cebc8d7099f6260057ad06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d8b6d8a376e11d79f9028eed11e6c5850fe6f08">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_80bf1b48907914cffcbed935c85855e1b01549cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_32c66b90ff58e4703ba67705c4ca249bfe683916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e0d7d1153949ab78f3e32dcc2bdbe3dbaf76503e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\2d669e6db47d76f0e7aab6461132723fedb870c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc8e02eece646c02488fa98b3f290b8591156f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\9a3b1dc903357565967070bdf072caa7b6f4b57c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_413a86a159566629d567cc4ce9207a41de324f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\e2a08cf963f62328719d0a1a17540cfa4c3dc385\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72ac8f31550d412592b446de35190674785567df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\ff4d50c89b1d89228a91c3ec84b15c0d386011c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a1dd4b29dd53332e3dc197261822c2033327d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\750150c5055cd8892ab951c10238c72e12375546\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94d6e860f2086375a24cc734e3e5eb6750515072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android courses\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1baf5ddaa1f98613913042c7b337eb3a28fe8a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\57fb54064887f57bd33b9494cb03913c5654f187\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e97cc2570553e858cc9622803f37b506a65a9101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\f537defd276942df1774829ae9a1802bdf0d57b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06d2c38008698c13d69c5795b091a6c4363442cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\f66b05a9ef768d7ca85fb88b3a0190110d89e7aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30a8672afb8ea775dc8df1ab2f71b49e3e1796ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\4d044ec5394568eff64959b45e9ee9f861687e54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97281ebde4c6ad69bbf99d57ae8d85d80cae5d03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\90f94a1519f93185f3cbfdbc1e780b0746f435ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23be504e68c4a1026f42f60dc0f18388a42b4086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\2b9ec172c8a1391bbb29c617526fcc73934a78ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c35ec63617a0bb16e5c4e0bb5099c124fbd2502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\91061a21e3f512008b16376dbd3825696718eb88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfbc634c865d52d2bb3b145a776e9f84f030744e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viola\.android\build-cache\57a824a164f175a2bf208bcbca805ff48c286696\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Viola\Downloads\xyz-reader-master\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277e07ae8e9a04397a0cd05aaab37961213190f1\classes.dex" />
+    </item>
+
+</items>

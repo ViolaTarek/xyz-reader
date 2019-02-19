@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\ff4d50c89b1d89228a91c3ec84b15c0d386011c4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\ff4d50c89b1d89228a91c3ec84b15c0d386011c4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\ff4d50c89b1d89228a91c3ec84b15c0d386011c4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\white_selectable_item_background_circle.xml",
+        "source": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\src\\main\\res\\drawable-v21\\white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\ff4d50c89b1d89228a91c3ec84b15c0d386011c4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Viola\\.android\\build-cache\\2b1bee9eb853ee1dd8e1a40e51e7066c1182fc0e\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]

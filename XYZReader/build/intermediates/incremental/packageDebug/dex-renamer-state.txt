@@ -1,0 +1,7 @@
+#Sun Feb 17 16:18:53 PST 2019
+base.0=C\:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0d7d1153949ab78f3e32dcc2bdbe3dbaf76503e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_80bf1b48907914cffcbed935c85855e1b01549cc\\classes.dex
+base.1=C\:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_80bf1b48907914cffcbed935c85855e1b01549cc
+file.0=C\:\\Users\\Viola\\Downloads\\xyz-reader-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e0d7d1153949ab78f3e32dcc2bdbe3dbaf76503e\\classes.dex
